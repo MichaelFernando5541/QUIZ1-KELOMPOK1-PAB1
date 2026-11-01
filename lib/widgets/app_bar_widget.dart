@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-PrefferdSizeWidget buildCustomAppBar(){
+PreferredSizeWidget buildCustomAppBar(){
     return AppBar(
         title:const Text('Kuliner Nusantara',style:TextStyle(color:Colors.white)),
         backgroundColor:Colors.orange,
